@@ -1,25 +1,3 @@
-/*Spin Animation*/
-.container {
-    position: relative;
-    width: 200px;
-    height: 200px;
-}
-/*Taylor swift code spin and the css for it */
-.spin-image {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100px;
-    height: 100px;
-    transform: translate(-50%, -50%);
-    transition: transform 1s ease-in-out;
-}
-
-.spin-image:active {
-    transform: translate(-50%, -50%) rotate(360deg);
-}
-
-
 /*Code Profile Card*/
 
 :root {

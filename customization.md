@@ -26,11 +26,3 @@
           </article>
         </main>
 </body> 
-<!--Example code of what the taylor swift spin code looks like-->
-    <div class="container">
-        <p>Click to see Taylor Swift Spin!</p>
-        <br>
-        <br>
-        <img src="images/taylorswiftimage.png" alt="spin-image" class="spin-image">
-    </div>
-    </html>
