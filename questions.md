@@ -34,6 +34,8 @@
 <!--<p>ANSWER</p>-->
 <h2>3. How can you include Bootstrap in YOUR website development?</h2>
 <!--<p>ANSWER</p>-->
+<h2>4. What do selectors do? Explain one selector in your own words.</h2>
+<!--<p>ANSWER</p>-->
 
 <hr>
 
