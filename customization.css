@@ -40,7 +40,7 @@ body {
 }
 
 h1 {
-    color: hsl(212, 21%, 14%);
+    color: hsl(284, 100%, 65%);
     font-size: 2rem;
     font-family: var(--font-family-secondary);
     line-height: 1;
@@ -81,34 +81,27 @@ p {
     font-size: 14px;
     font-family: var(--font-family-primary);
     font-weight: var(--font-weight-bold);
-    color: hsl(228, 10%, 48%);
+    color: hsl(308, 67%, 56%);
 }
 
-.button {
-    background-color: hsl(158, 36%, 37%);
-    border-radius: 0.5rem;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-    color: white;
+.button{
+    display: inline-block;
+    text-decoration: none;
+    color: #f00808;
+    border: 1px solid #6f0505;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
     cursor: pointer;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1rem;
-    border: 0;
-    gap: 0.5rem;
-}
+ }
+ /*when the inv-btn is hovered by the cursor then there will be a different color, this is similar to the underline of the cta buttons*/
+ .button:hover{
+    border: 1px solid rgb(77, 66, 68);
+    background: rgb(77, 66, 68);
+    transition: 1s;
+ }
 
-button:is(:hover, :focus) {
-    background-color: hsl(158, 36%, 20%);
-}
-
-.button[data-icon="git"]::before {
-    content: '';
-    width: 15px;
-    height: 16px;
-    background-image: url(images/icon.svg)
-}
 
 /*Box Size*/
   *,
