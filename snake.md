@@ -7,8 +7,7 @@
 </head>
 <body>
 <img src="https://user-images.githubusercontent.com/109186517/234174390-72b9b86f-1b68-4341-bf48-a05dc71c3773.png" height="300px" width="300px">
-<img src="https://user-images.githubusercontent.com/109186517/234174271-caee7793-44ad-4362-b9c4-f50b00a218b3.png" height="300px" width="300px">
-<div>
+<img src="https://user-images.githubusercontent.com/109186517/234174271-caee7793-44ad-4362-b9c4-f50b00a218b3.png" height="300px" width="300px" padding-right="auto">
 <p id="p1">SCORE:</p>
 <p id="score"></p>
 <p id="p2">HIGHSCORE:</p>
