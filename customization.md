@@ -13,15 +13,15 @@
           <article class="profile">
             <picture class="profile-img">
               <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <img src="https://user-images.githubusercontent.com/109186517/234166503-2599a5ff-db83-4607-a034-6166f7a885df.png">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Ethan Tran</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Whats up I'm Ethan, I like basketball and r&b music. 
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/realethantran" class="button"></a>
             </div>
           </article>
         </main>
