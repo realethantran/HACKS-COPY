@@ -18,6 +18,7 @@
       <h1>Extra Seed</h1>
       <p>Add an element of bootstrap to this page (ex. carousel) OR Add an element using Tailwind</p>
     </div>
+      <p>I used carousel to make a slideshow of these wonderful photos!</p>
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
