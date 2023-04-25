@@ -8,6 +8,9 @@
         margin: auto;
         display: block;
       }
+      .carousel-control-prev, .carousel-control-next {
+        filter: invert(1) sepia(1) saturate(5) hue-rotate(195deg);
+      }
     </style>
   </head>
   <body>
@@ -36,5 +39,3 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-  </body>
-</html>
