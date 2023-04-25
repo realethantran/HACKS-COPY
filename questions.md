@@ -54,15 +54,15 @@ Bootstrap is also built using lightweight CSS and JavaScript, which makes it fas
 
 <h2>1. What are examples of selection, iteration, and sequencing in the snake game?</h2>
 
-<p>ANSWER</p>
+<p>Selection is the process of choosing between different options. In the snake game, the player must select which direction they want the snake to move. Iteration is the process of repeating a task a certain number of times. In the snake game, the snake's body is made up of a series of segments. Each segment is created by iterating over a list of coordinates. Sequencing is the process of arranging tasks in a specific order. In the snake game, the tasks of moving the snake, checking for collisions, and updating the display are all sequenced in a specific order.</p>
 
 <h2>2. How does ":root" contribute to the customization of the game?</h2>
 
-<p>ANSWER</p>
+<p>The :root selector in CSS refers to the root element of the document. In the context of the snake game, the root element is the HTML div element that contains the game's canvas. The :root selector can be used to style the root element, or to apply styles to all of the elements in the document.</p>
 
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
 
-<p>Selection is the process of choosing between different options. In the snake game, the player must select which direction they want the snake to move. Iteration is the process of repeating a task a certain number of times. In the snake game, the snake's body is made up of a series of segments. Each segment is created by iterating over a list of coordinates. Sequencing is the process of arranging tasks in a specific order. In the snake game, the tasks of moving the snake, checking for collisions, and updating the display are all sequenced in a specific order. The :root selector in CSS refers to the root element of the document. In the context of the snake game, the root element is the HTML div element that contains the game's canvas. The :root selector can be used to style the root element, or to apply styles to all of the elements in the document. HTML, JavaScript, and CSS are all essential components of the snake game. HTML is used to create the game's structure, JavaScript is used to control the game's logic, and CSS is used to style the game's visuals. Together, these three languages create the final product: a fun and challenging game that can be enjoyed by players of all ages.</p>
+<p>HTML, JavaScript, and CSS are all essential components of a game. HTML is used to create the game's structure, JavaScript is used to control the game's logic, and CSS is used to style the game's visuals. Together, these three languages create the final product.</p>
 
 
 </div>

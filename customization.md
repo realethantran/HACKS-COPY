@@ -12,7 +12,7 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
+              <source srcset="https://user-images.githubusercontent.com/109186517/234166503-2599a5ff-db83-4607-a034-6166f7a885df.png" media="(min-width: 600px)">
               <img src="https://user-images.githubusercontent.com/109186517/234166503-2599a5ff-db83-4607-a034-6166f7a885df.png">
             </picture>
             <div class="content">
